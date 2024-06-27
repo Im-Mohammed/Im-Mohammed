@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">The Ability to code makes me more powerful!!!</h3>
+<p align="center">
+  <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text {
+        fill: lightblue;
+        font-family: Arial, sans-serif;
+        font-size: 40px;
+        animation: move 3s infinite alternate;
+      }
+      @keyframes move {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(100px); }
+      }
+    </style>
+    <text x="10" y="50" class="text">Animated Text in Light Blue</text>
+  </svg>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed" /> </p>
 
